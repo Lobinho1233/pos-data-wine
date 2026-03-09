@@ -1,4 +1,5 @@
 🍷 Wine Quality Analysis
+
 📌 Descrição do Projeto
 
 Este projeto realiza uma análise exploratória do dataset Wine Quality, com o objetivo de compreender quais propriedades físico-químicas influenciam a qualidade do vinho.
